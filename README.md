@@ -2,18 +2,7 @@
 
 This repository contains the combined R workflow and source data files for the anatomical craniometric analysis.
 
-## Repository structure
-
-```text
-.
-├── Anatomical-Craniometric-Combined.r      # convenience copy of the combined script
-├── R/                                      # analysis scripts
-├── data/
-│   ├── raw/                                # original uploaded source files
-│   └── processed/                          # script-compatible CSVs available from the uploaded files
-├── docs/                                   # project documentation
-└── outputs/                                # generated outputs; ignored by git except .gitkeep
-```
+#Manuscript forthcoming#
 
 ## R packages
 
