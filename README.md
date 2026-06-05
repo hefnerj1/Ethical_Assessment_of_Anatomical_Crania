@@ -2,7 +2,7 @@
 
 This repository contains the combined R workflow and source data files for the anatomical craniometric analysis.
 
-#Manuscript forthcoming#
+## Manuscript forthcoming
 
 ## R packages
 
